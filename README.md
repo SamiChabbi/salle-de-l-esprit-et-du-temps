@@ -12,17 +12,17 @@ Pour chaque chapitre, on a rassemblé une **base d'exercices tombés pour de vra
 
 Chaque notebook a deux parties :
 1. **La méthode** : les statistiques de la base, une méthode générale en 5 étapes, une fiche par type de question (comment la reconnaître, la méthode, un exemple, les pièges), et une fiche réflexe ;
-2. **Les exercices**, du plus simple au plus difficile. Chaque question porte une étiquette 🏷️ qui renvoie à sa fiche.
+2. **Les exercices**, du plus simple au plus difficile. **Les énoncés sont recopiés tels qu'ils sont tombés** (texte, code et figures d'origine), sans aide ajoutée. Dans cette version corrigée, chaque question porte une étiquette 🏷️ qui renvoie à sa fiche.
 
 ## Contenu
 
 ```
-01_Recursivite.ipynb            19 exercices · 60 questions · 8 types (R1 à R8)
-02_Diviser_pour_regner.ipynb    16 exercices · 53 questions · 8 types (D1 à D8)
-03_POO.ipynb                    20 exercices · 80 questions · 8 types (P1 à P8)
+01_Recursivite.ipynb            19 exercices · 77 questions · 8 types (R1 à R8)
+02_Diviser_pour_regner.ipynb    16 exercices · 73 questions · 8 types (D1 à D8)
+03_POO.ipynb                    20 exercices · 90 questions · 8 types (P1 à P8)
 ```
 
-Dans cette version, chaque question a trois blocs séparés : 📝 **ÉNONCÉ**, ✅ **RÉSOLUTION**, 💡 **EXPLICATION PÉDAGOGIQUE**. Toutes les résolutions ont été exécutées : les 115 cellules de tests passent.
+Dans cette version, chaque question a trois blocs séparés : 📝 **ÉNONCÉ**, ✅ **RÉSOLUTION**, 💡 **EXPLICATION PÉDAGOGIQUE**. Toutes les résolutions ont été exécutées : les 138 cellules de tests passent.
 
 ## Utilisation
 
