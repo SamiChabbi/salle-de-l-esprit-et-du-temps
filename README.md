@@ -1,10 +1,10 @@
 # 🥋 Salle de l'Esprit et du Temps — NSI Terminale
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamiChabbi/salle-de-l-esprit-et-du-temps-ihad/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamiChabbi/salle-de-l-esprit-et-du-temps/main)
 
 Une salle d'entraînement pour trois chapitres de Terminale NSI : **la récursivité**, **diviser pour régner** et **la programmation orientée objet**.
 
-**Version avec les corrections.** La version élève (sans les corrections) est ici : [salle-de-l-esprit-et-du-temps-ihad-eleve](https://github.com/SamiChabbi/salle-de-l-esprit-et-du-temps-ihad-eleve).
+**Version avec les corrections.** La version élève (sans les corrections) est ici : [salle-de-l-esprit-et-du-temps-eleve](https://github.com/SamiChabbi/salle-de-l-esprit-et-du-temps-eleve).
 
 ## Le principe
 
